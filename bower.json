@@ -1,0 +1,23 @@
+{
+  "name": "finn-boka",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tangram/finn-boka/",
+  "authors": [
+    "Eirik Krogstad"
+  ],
+  "description": "Select box enabling search against 400+ norwegian libraries, implemented as a jQuery plugin.",
+  "main": "jquery.finnboka.min.js",
+  "moduleType": [],
+  "keywords": [
+    "books",
+    "norway"
+  ],
+  "license": "MIT",
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+  ]
+}
